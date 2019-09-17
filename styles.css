@@ -5,28 +5,20 @@
 
 }
 
-body
-{
+body{
     background: url(./img/background.png);
-
 }
-body
 
   
 
 
-li{
+li {
  
     font-display: white;
-    
-    
 }
 
 
-p
-{
+p {
     font-display: blue;
-   
-
 }
 
